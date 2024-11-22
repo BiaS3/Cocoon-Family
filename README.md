@@ -1,6 +1,11 @@
 # Cocoon Family 🌍👨‍👩‍👧‍👦  
 **Plataforma no-code para conectar famílias expatriadas no mundo, começando pela comunidade brasileira na Holanda.**
 
+
+![No-Code](https://img.shields.io/badge/No--Code-Softr-blue)
+![Airtable](https://img.shields.io/badge/Airtable-Dynamic-yellow)
+![Google Maps API](https://img.shields.io/badge/Google-Maps%20API-red)
+
 ---
 ## 👫 Nosso Time
 Somos mulheres, mães e empreendedoras na **Economia do Cuidado**, unidas para criar soluções que impactam a vida de muitas famílias.
